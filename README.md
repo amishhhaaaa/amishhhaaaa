@@ -1,4 +1,4 @@
-I ❤️ Open Source, I make games and art. <br>
+I ❤️ Open Source <br>
 
 My patches to the git project: https://lore.kernel.org/git/?q=amishhhaaaa <br>
 I made transparency log for Ruby's package management and hosting system, check it out: https://summerofcode.withgoogle.com/programs/2026/projects/hb6aCL4h <br>
